@@ -6,7 +6,7 @@
 super + w
 	firefox
 
-# newsboar
+# newsboat
 super + n
 	alacritty -e newsboat
 
